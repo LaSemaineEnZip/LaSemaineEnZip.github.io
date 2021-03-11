@@ -5,7 +5,7 @@ subtitle: De la tech dans tes oreilles
 ## C'est quoi, la Semaine en Zip ?
 C'est tout simple ,
 
-c'est un podcast résumant l'actualité tech de la semaine créé et édité par trois passionnés par la technologie : [Diplay](http://twitter.com/diplay3311), [Tarti](http://twitter.com/latech_tarti) et [PlugN](http://twitter.com/plugntweet)
+c'est un podcast résumant l'actualité tech de la semaine créé et édité par trois passionnés par la technologie : [Diplay](http://twitter.com/diplay3311), [PlugN](http://twitter.com/plugntweet) et [Tarti](http://twitter.com/latech_tarti)
 
 Nous l'enregistrons chaque vendredi soir vers 21h15 sur Twitch.
 
@@ -20,5 +20,5 @@ Nous l'enregistrons chaque vendredi soir vers 21h15 sur Twitch.
 
 On est sur la plupart des grandes plateformes, Anchor, Apple Podcasts, Spotify, ou encore YouTube
 <iframe src="https://anchor.fm/la-semaine-en-zip/embed" height="300" width="100%" frameborder="0" scrolling="no"></iframe>
-<iframe width="300%" height="auto" src="https://www.youtube.com/embed/videoseries?channel=UCnhcfQpwzkM0nTSu2KcFPWA" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/videoseries?channel=UCnhcfQpwzkM0nTSu2KcFPWA" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
 
