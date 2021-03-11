@@ -19,6 +19,6 @@ Nous l'enregistrons chaque vendredi soir vers 21h15 sur Twitch.
 ## Sympa ! Et où est-ce que je peux vous retrouver en replay ?
 
 On est sur la plupart des grandes plateformes, Anchor, Apple Podcasts, Spotify, ou encore YouTube
-<iframe src="https://anchor.fm/la-semaine-en-zip/embed" height="300" width="100%" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/la-semaine-en-zip/embed" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
 <iframe width="100%" height="300" src="https://www.youtube.com/embed/videoseries?channel=UCnhcfQpwzkM0nTSu2KcFPWA" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
 
