@@ -28,7 +28,7 @@ On est sur la plupart des grandes plateformes, Anchor, Apple Podcasts, Spotify, 
     scrolling="no">
 </iframe>
 
-<iframe src="https://www.youtube.com/embed/videoseries?channel=UCnhcfQpwzkM0nTSu2KcFPWA" 
+<iframe src="https://www.youtube.com/embed/videoseries?list=PLXTttbClg23PKrMlBz0TuFthMGVvddtwj" 
     width="100%"
     height="413"
     frameborder="0"
