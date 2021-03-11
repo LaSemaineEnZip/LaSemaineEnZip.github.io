@@ -1,3 +1,7 @@
+---
+title: La Semaine en Zip
+subtitle: De l'actu dans tes oreilles
+---
 ## C'est quoi, la Semaine en Zip ?
 C'est tout simple :
 
