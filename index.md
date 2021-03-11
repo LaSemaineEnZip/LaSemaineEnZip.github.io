@@ -8,15 +8,7 @@ C'est simple :
 
 - C'est un podcast résumant l'actualité tech de la semaine créé et édité par trois passionnés de la technologie : [Diplay](http://twitter.com/diplay3311), [PlugN](http://twitter.com/plugntweet) et [Tarti](http://twitter.com/latech_tarti)
 
-- Nous l'enregistrons chaque vendredi soir vers 21h15 sur Twitch.
-
-<iframe
-    src="https://player.twitch.tv/?channel=tartiflm&parent=lasemaineenzip.github.io"
-    width="100%"
-    height="413"
-    frameborder="0"
-    allowfullscreen="yes">
-</iframe>
+- Nous l'enregistrons chaque vendredi soir vers 21h15 sur [Twitch](http://twitch.tv/tartiflm).
 
 ## Sympa ! Et où est-ce que je peux retrouver les anciens épisodes ?
 
