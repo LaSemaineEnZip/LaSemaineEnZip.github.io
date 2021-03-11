@@ -1,6 +1,7 @@
 ---
 title: La Semaine en Zip
 subtitle: De la tech dans tes oreilles
+share-img: https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded_nologo400/12354229/12354229-1612212062913-6b7e34fcb4691.jpg
 ---
 ## C'est quoi, la Semaine en Zip ?
 C'est simple :
@@ -19,15 +20,19 @@ C'est simple :
 
 ## Sympa ! Et où est-ce que je peux vous retrouver en replay ?
 
-On est sur la plupart des grandes plateformes, Anchor, Apple Podcasts, Spotify, ou encore YouTube
+On est sur la plupart des grandes plateformes, [Anchor](https://anchor.fm/la-semaine-en-zip), [Apple Podcasts](https://podcasts.apple.com/fr/podcast/la-semaine-en-zip/id1551541853), [Spotify](https://open.spotify.com/show/6ZTAoZeLiOeSdJLqRgfNcv), ou encore [YouTube](https://www.youtube.com/channel/UCnhcfQpwzkM0nTSu2KcFPWA)
 
+## Ok ok, et comment-est-ce que je peux écouter rapidement votre podcast pour m'en faire un avis rapidement ?
+
+On a pensé à toi, c'est juste en dessous :
+## En audio
 <iframe src="https://anchor.fm/la-semaine-en-zip/embed"
     height="102px"
     width="100%"
     frameborder="0"
     scrolling="no">
 </iframe>
-
+## En vidéo
 <iframe src="https://www.youtube.com/embed/videoseries?list=PLXTttbClg23PKrMlBz0TuFthMGVvddtwj" 
     width="100%"
     height="413"
