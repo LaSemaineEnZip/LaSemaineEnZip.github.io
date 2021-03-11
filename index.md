@@ -9,10 +9,10 @@ C'est simple :
 
 - Nous l'enregistrons chaque vendredi soir vers 21h15 sur Twitch.
 
-<iframe id="iframetwitch"
+<iframe
     src="https://player.twitch.tv/?channel=tartiflm&parent=lasemaineenzip.github.io"
     width="100%"
-    height="300"
+    height="413"
     allowfullscreen="yes">
 </iframe>
 
@@ -20,17 +20,4 @@ C'est simple :
 
 On est sur la plupart des grandes plateformes, Anchor, Apple Podcasts, Spotify, ou encore YouTube
 <iframe src="https://anchor.fm/la-semaine-en-zip/embed" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
-<iframe width="100%" id="iframeyt" height="300" src="https://www.youtube.com/embed/videoseries?channel=UCnhcfQpwzkM0nTSu2KcFPWA" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
-
-<script type="application/javascript">
-    
-    function resizeIframe(iframe) {
-        iframe.height = (iframe.contentWindow.document.body.scrollHeight +10) + "px";
-    }
-
-    frame = document.getElementById('iframetwitch')
-
-    window.addEventListener('load', function () {
-        setInterval(function (){resizeIframe(frame)}, 500); //Not pretty, but it actually works better than the mutationObserver way for this case
-    })
-</script>
+<iframe width="100%" height="413" src="https://www.youtube.com/embed/videoseries?channel=UCnhcfQpwzkM0nTSu2KcFPWA" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
