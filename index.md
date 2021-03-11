@@ -13,11 +13,25 @@ C'est simple :
     src="https://player.twitch.tv/?channel=tartiflm&parent=lasemaineenzip.github.io"
     width="100%"
     height="413"
+    frameborder="0"
     allowfullscreen="yes">
 </iframe>
 
 ## Sympa ! Et où est-ce que je peux vous retrouver en replay ?
 
 On est sur la plupart des grandes plateformes, Anchor, Apple Podcasts, Spotify, ou encore YouTube
-<iframe src="https://anchor.fm/la-semaine-en-zip/embed" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
-<iframe width="100%" height="413" src="https://www.youtube.com/embed/videoseries?channel=UCnhcfQpwzkM0nTSu2KcFPWA" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
+
+<iframe src="https://anchor.fm/la-semaine-en-zip/embed"
+    height="102px"
+    width="100%"
+    frameborder="0"
+    scrolling="no">
+</iframe>
+
+<iframe src="https://www.youtube.com/embed/videoseries?channel=UCnhcfQpwzkM0nTSu2KcFPWA" 
+    width="100%"
+    height="413"
+    frameborder="0"
+    allow="encrypted-media"
+    allowfullscreen= "yes">
+</iframe>
