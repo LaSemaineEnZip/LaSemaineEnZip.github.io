@@ -22,7 +22,7 @@ C'est simple :
 
 On est sur la plupart des grandes plateformes, [Anchor](https://anchor.fm/la-semaine-en-zip), [Apple Podcasts](https://podcasts.apple.com/fr/podcast/la-semaine-en-zip/id1551541853), [Spotify](https://open.spotify.com/show/6ZTAoZeLiOeSdJLqRgfNcv), ou encore [YouTube](https://www.youtube.com/channel/UCnhcfQpwzkM0nTSu2KcFPWA)
 
-## Ok ok, et comment-est-ce que je peux écouter rapidement votre podcast pour m'en faire un avis rapidement ?
+## Ok ok, et comment-est-ce que je peux écouter rapidement votre podcast pour m'en faire un avis ?
 
 On a pensé à toi, c'est juste en dessous :
 ## En audio
