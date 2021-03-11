@@ -1,11 +1,11 @@
 ---
 title: La Semaine en Zip
-subtitle: De l'actu dans tes oreilles
+subtitle: De la tech dans tes oreilles
 ---
 ## C'est quoi, la Semaine en Zip ?
-C'est tout simple :
+C'est tout simple ,
 
-C'est un podcast résumant l'actualité tech de la semaine créé et édité par trois passionnés par la technologie : [Diplay](http://twitter.com/diplay3311), [Tarti](http://twitter.com/latech_tarti) et [PlugN](http://twitter.com/plugntweet)
+c'est un podcast résumant l'actualité tech de la semaine créé et édité par trois passionnés par la technologie : [Diplay](http://twitter.com/diplay3311), [Tarti](http://twitter.com/latech_tarti) et [PlugN](http://twitter.com/plugntweet)
 
 Nous l'enregistrons chaque vendredi soir vers 21h15 sur Twitch.
 
