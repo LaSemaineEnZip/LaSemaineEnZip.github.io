@@ -18,7 +18,7 @@ C'est simple :
     allowfullscreen="yes">
 </iframe>
 
-## Sympa ! Et où est-ce que je peux vous retrouver vos épisodes ?
+## Sympa ! Et où est-ce que je peux retrouver les anciens épisodes ?
 
 On est sur la plupart des grandes plateformes, [Anchor](https://anchor.fm/la-semaine-en-zip), [Apple Podcasts](https://podcasts.apple.com/fr/podcast/la-semaine-en-zip/id1551541853), [Spotify](https://open.spotify.com/show/6ZTAoZeLiOeSdJLqRgfNcv), ou encore [YouTube](https://www.youtube.com/channel/UCnhcfQpwzkM0nTSu2KcFPWA)
 
